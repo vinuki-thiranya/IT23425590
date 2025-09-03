@@ -1,0 +1,4 @@
+Rank 0 sending buffered message to rank 2
+Rank 0 finished Bsend
+Rank 1 is idle, not receiving anything
+Rank 2 received data = 100

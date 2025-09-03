@@ -1,0 +1,4 @@
+Received sum 9375001250000 from rank 1
+Received sum 15625001250000 from rank 2
+Received sum 21875001250000 from rank 3
+Total Sum = 50000005000000

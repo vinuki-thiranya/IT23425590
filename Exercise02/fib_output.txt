@@ -1,0 +1,2 @@
+Fib(30) = 832040
+Time taken: 0.997294 seconds

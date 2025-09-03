@@ -1,0 +1,10 @@
+MPI Sum Timing Results
+==== Number of processes = 1 ====
+Sum = 50000005000000
+Time taken = 0.025719 seconds
+==== Number of processes = 2 ====
+Sum = 50000005000000
+Time taken = 0.022683 seconds
+==== Number of processes = 4 ====
+Sum = 50000005000000
+Time taken = 0.013350 seconds

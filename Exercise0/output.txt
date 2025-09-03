@@ -1,0 +1,8 @@
+=== Output for 2 processes ===
+Just a normal process From rank 1 machine ip-172-31-47-241.ec2.internal
+Hello World! From rank 0 machine ip-172-31-47-241.ec2.internal
+=== Output for 4 processes ===
+Just a normal process From rank 2 machine ip-172-31-47-241.ec2.internal
+Just a normal process From rank 3 machine ip-172-31-47-241.ec2.internal
+Just a normal process From rank 1 machine ip-172-31-47-241.ec2.internal
+Hello World! From rank 0 machine ip-172-31-47-241.ec2.internal

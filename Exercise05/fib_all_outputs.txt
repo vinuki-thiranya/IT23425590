@@ -1,0 +1,10 @@
+Fibonacci Timing Results
+==== OMP_NUM_THREADS=1 ====
+Fib(30) = 832040
+Time taken = 0.237303 seconds
+==== OMP_NUM_THREADS=2 ====
+Fib(30) = 832040
+Time taken = 1.205142 seconds
+==== OMP_NUM_THREADS=4 ====
+Fib(30) = 832040
+Time taken = 1.298293 seconds

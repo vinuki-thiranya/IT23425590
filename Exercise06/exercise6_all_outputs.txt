@@ -1,0 +1,9 @@
+Exercise 6: MPI Outputs
+==== Output of wrong_message.c ====
+Sending message to rank 2 from rank 0
+Rank 1 is idle, not receiving anything
+Rank 2 received data = 100
+==== Output of buffered_send.c ====
+Process 0 sending buffered message to process 1
+Process 0 sent message
+Process 1 received: 0 10 20 30 40 50 60 70 80 90 
